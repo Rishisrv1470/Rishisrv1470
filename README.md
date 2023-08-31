@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rishi
+- 👀 I’m interested in latest technologies like Data Science,ML, DP, AI, Devops.
+- 📫 How to reach me at rishisrv97@gmail.com
